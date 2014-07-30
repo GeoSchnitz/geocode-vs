@@ -20,11 +20,11 @@ The script will access `API.json` for API keys (if neccessary) and will output `
 
 ### Files
 
-`API.json` - credentials for the geocoding APIs
-`cities.csv` - main output; CSV with header; example results included
-`cities.txt` - input file; each location on new line; examples included
-`console_output.txt` - example for console output
-`outliers.txt` - supposed outliers 
+`API.json` - credentials for the geocoding APIs  
+`cities.csv` - main output; CSV with header; example results included  
+`cities.txt` - input file; each location on new line; examples included  
+`console_output.txt` - example for console output  
+`outliers.txt` - supposed outliers   
 
 ### Version
 
