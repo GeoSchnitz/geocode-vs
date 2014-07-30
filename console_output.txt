@@ -1,0 +1,26 @@
+Nominatim geocoding ...
+388 out of 421 cities were geocoded successfully (92%).
+Google geocoding ...
+399 out of 421 cities were geocoded successfully (94%).
+MapQuest geocoding ...
+368 out of 421 cities were geocoded successfully (87%).
+HERE geocoding ...
+384 out of 421 cities were geocoded successfully (91%).
+OpenCage geocoding ...
+390 out of 421 cities were geocoded successfully (92%).
+
+-----------------------------------------------------------------------
+|           | success rate / no. of outliers / ping (ms) 
+|-----------|----------------------------------------------------------
+| Nominatim | 92.14% / 14 / 597
+| Google    | 94.76% / 183 / 601
+| MapQuest  | 87.38% / 7 / 613
+| HERE      | 91.19% / 111 / 406
+| OpenCage  | 92.62% / 4 / 523
+|----------------------------------------------------------------------
+| Processed 421 datapoints, 343 were used for outlier calculation (81.47%).
+-----------------------------------------------------------------------
+	
+Outliers written to: outliers.txt
+CSV output written to: cities.csv
+
