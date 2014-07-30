@@ -9,9 +9,9 @@ Getting a unified way to access the most important geocoding APIs (Nominatim, Go
 
 Just run the script by providing a .txt file with each location to geocode on a new line, e.g.:
 
-    cat places.txt  
-    Berlin  
-    Amsterdam  
+    cat places.txt
+    Berlin
+    Amsterdam
     Montpellier
     ...
     python geocode-vs.py places.txt
