@@ -1,0 +1,421 @@
+Agra
+'Ain Ghazal
+Aberdeen
+Acoma Puebloand Taos Pueblo, New Mexico
+Adab
+Adelaide
+Agra
+Ahmedabad
+Ahmednagar
+Akkad
+Albany
+Albany, New York
+Aleppo
+Alexandria
+Amarna
+Amesbury
+Amman
+Amsterdam
+Angkor
+Anhilpur
+Anshan
+Antioch
+Antwerp
+Anuradhapura
+Anyang
+Anyi
+Arbil
+Argos
+Århus
+Athens
+Avaris
+Axum
+Ayodhya
+Ayutthaya
+Babylon
+Bad-tibira
+Badami
+Bagan
+Baghdad
+Bago
+Bakhalal
+Baku
+Balkh
+Bamyan
+Bandar Seri Begawan
+Baracoa
+Barcelona
+Basra
+Bath
+Beidha
+Beijing
+Beirut
+Belgrade
+Benares
+Berat
+Berbera
+Berlin
+Bilhorod-Dnistrovskyi
+Brisbane
+Bruges
+Bursa
+Butuan
+Byblos
+Byzantium
+Cádiz
+Cairo
+Calah
+Canberra
+Cape Guardafui
+Cape Town
+Cartagena
+Carthage
+Çatalhöyük
+Chalcis
+Chan Chan
+Chang'an
+Chania
+Chengdu
+Chenla
+Chicheng
+Chios
+Cholula
+Chunar
+Chur
+Cologne
+Constanţa
+Constantinople
+Copán
+Copenhagen
+Córdoba
+Corfu, Kerkyra
+Crotone
+Ctesiphon
+Cuicuilco
+Cusco
+Cuttack
+Dali
+Damascus
+Darwin
+Datong
+Delhi
+Dhar
+Djenné-Jeno
+Dobrovody
+Dublin
+Dur-Kurigalzu
+Durrës
+Ebla
+Ecbatana
+Edessa, Greece
+Edinburgh
+El Tajín
+Ephesus
+Eridu
+Erlitou
+Esfahān
+Évora
+Faiyum
+Feodosiya
+Fes
+Florence
+Fustat
+Gao
+Gaur
+Gaza
+Gaziantep
+Genoa
+Ghadames
+Glasgow
+Granada
+Guangzhou
+Gwalior
+Gyeongju
+Habuba Kabira
+Hamadan
+Hangzhou
+Hanoi
+Haojing
+Harappa
+Hastinapur
+Hattushash
+Hazor
+Hebron
+Heliopolis
+Heracleopolis
+Heraklion
+Hobart
+Ife
+Igodomigodo
+Inverness
+Ioannina
+Isin
+Istanbul
+Izapa
+Jaffa
+Jamestown, Virginia
+Jaunpur
+Jenin
+Jericho
+Jerusalem
+Jiankang
+Jinzhou
+Kagoshima
+Kaifeng
+Kalburgi
+Kalinjar
+Kalyan
+Kanazawa
+Kanchi
+Kannauj
+Kano
+Kathmandu-Patan, Lalitpur
+Kavala
+Kaveri
+Kediri
+Kerch
+Kerikeri
+Kerma
+Kesh
+Khambhat
+Kiev
+Kingchow
+Kirkuk
+Kish
+Kismayo
+Knossos
+Kollam
+Kosambi
+Kraków
+Kutaisi
+Kyoto
+Lagash
+Lahore
+Lamia
+Lamu
+Larnaca
+Larsa
+Launceston
+Lhasa
+Linzi
+Lisbon
+Liverpool
+London
+Luang Prabang
+Lund
+Luoyang
+Luxor
+Madrid
+Madurai
+Mahasthangarh
+Málaga
+Manchester
+Mandsaur
+Mandu
+Mangalia
+Manila
+Mantua
+Manyakheta
+Mari
+Marib
+Marrakech
+Marrakesh
+Marseilles
+Maydanets
+Mehrgarh
+Melbourne
+Memphis
+Merv
+Messina
+Metz
+Mexico City
+Milan
+Miletus
+Mogadishu
+Mohenjo-daro
+Montreal
+Moscow
+Mozah
+Mtskheta
+Mytilene
+Nabadwip
+Nablus
+Nagoya
+Namazga-Tepe
+Nanjing
+Naples
+Nara
+Nea Nikomedeia
+Nekhen
+New York City
+Newcastle
+Nijmegen
+Nimrud
+Niniveh
+Nippur
+Niš
+Nishapur
+Nombre de Dios, Colón
+Novi Sad
+Old Cairo
+Oraibi, Arizona
+Osaka
+Oyo-Ile
+Paithan
+Palembang
+Palermo
+Panama City
+Paris
+Patala
+Pataliputra
+Patna
+Patras
+Perth
+Peshawar
+Philadelphia
+Pingcheng
+Plovdiv
+Plymouth, Massachusetts
+Polatsk
+Polonnaruwa
+Prague
+Prambanan
+Puri
+Pyay
+Pyeongyang
+Pyongyang
+Qabala
+Quebec City
+Qufu
+Quito
+Rajagriha
+Ramavati
+Ray
+Reggio di Calabria
+Rey
+Reykjavík
+Rhodes
+Ribe
+Rome
+Roses
+Saint John
+Saint Petersburg
+Sais
+Salona
+Samarkand
+Samarqand
+San Diego
+San Juan
+Santa Fe de Bogota
+Santa Fe, New Mexico
+Santa Marta
+Santiago del Estero
+Santo Domingo
+São Vicente, São Paulo
+Sarai
+Sault Ste. Marie, Michigan
+Seleucia
+Seoul
+Serres
+Sesklo
+Seville
+Shahr-i Sokhta
+Shangjing
+Shangqiu
+Shuruppak
+Sialkot
+Sidon
+Siem Reap
+Singapore
+Skara
+Skopje
+Smederevo
+Sofala
+Sofia
+Solothurn
+Sravasti
+Sremska Mitrovica
+St. Augustine, Florida
+St. John's, Newfoundland and Labrador
+Stara Zagora
+Staraya Ladoga
+Stobi
+Suheri
+Sunpu
+Susa
+Suzhou
+Sydney
+Syracuse
+Tabriz
+Taiyuan
+Talianki
+Taosi
+Taranto
+Tarragona
+Taxila
+Tbilisi
+Tell Brak
+Tell Churra
+Tell Leilan
+Tenochtitlan
+Teotihuacán
+Ternate
+Texcoco
+Thanjavur
+Thebes
+Thessaloniki
+Tidore
+Tikal
+Tokyo
+Tongeren
+Tres Zapotes
+Trier
+Trikala
+Trois-Rivières
+Trondheim
+Tula
+Tyre
+Ujjain
+Umma
+Upper Xingu
+Ur
+Uruk
+Vaisali
+Varanasi
+Varna
+Veliky Novgorod
+Venice
+Vera Cruz
+Verdun
+Veria
+Vienna
+Vijayanagar
+Vinča-Belo Brdo
+Vitebsk
+Volterra
+Vukovar
+Wanxian
+Warangal
+Winchester
+Worms
+Wuchang
+Xanthi
+Xi'an
+Xiadu
+Xianyang
+Xintian
+Xinzheng
+Xuchang
+Xue
+Yamaguchi
+Ye
+Yeha
+Yerevan
+Yong
+York
+Youzhou
+Zabala
+Zagreb
+Zeila
+Zhengzhou
+Zürich

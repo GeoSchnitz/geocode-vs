@@ -1,0 +1,67 @@
+{
+	"Nominatim" :
+		{
+		    "payload":
+		        {
+		            "format": "json",
+		            "q": " "
+		        },
+            "service":
+                {
+                    "url": "http://open.mapquestapi.com/nominatim/v1/search"
+                }
+
+		},
+	"Google" :
+		{
+		    "payload":
+		        {
+		            "address": " "
+		        },
+			"service":
+			    {
+			    "url": "https://maps.googleapis.com/maps/api/geocode/json"
+			    }
+		},
+	"Here" :
+		{
+		    "payload":
+		        {
+		            "app_id": "INSERTKEY",
+			        "app_code": "INSERTKEY",
+			        "gen": "5",
+			        "searchtext": " "
+		        },
+            "service":
+                {
+                    "url": "http://geocoder.cit.api.here.com/6.2/geocode.xml"
+                }
+
+		},
+	"MapQuest" :
+		{
+		    "payload":
+		        {
+		            "key": "INSERTKEY",
+			        "location": " "
+		        },
+		    "service":
+		        {
+		            "url": "http://open.mapquestapi.com/geocoding/v1/address"
+		        }
+
+		},
+	"OpenCage" :
+		{
+		    "payload":
+		        {
+		            "q": " ",
+			        "key": "INSERTKEY"
+		        },
+            "service":
+                {
+                    "url": "https://api.opencagedata.com/geocode/v1/json"
+                }
+
+		}
+}
